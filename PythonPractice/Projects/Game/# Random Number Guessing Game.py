@@ -25,6 +25,7 @@
 
 import random
 
+while True:
 top_of_range = input("Type a number: ")  # returns a string
 
 if top_of_range.isdigit():  # isdigit() function checks if user entered a number?
@@ -32,10 +33,11 @@ if top_of_range.isdigit():  # isdigit() function checks if user entered a number
 
     if top_of_range <= 0:
         print("Please type a number larger than 0 next time.")
-        quit()
+        continue
 else:
     print("Please type a number next time.")
-    quit()
+    continue
+break
 
 # Random Number Guessing Game 
 
