@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning GitHub and python code.
 - High School motto: Latin: Discere et Agere (To Learn and To Do)
 - 💞️ I’m looking to collaborate on 'Pending'
-- 📫 How to reach me @timothypearson on Github or on email pearson.j.timothy@gmail.com
+- 📫 How to reach me @timothypearson on Github
 
 <!---
 timothypearson/timothypearson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
